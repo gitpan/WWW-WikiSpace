@@ -1,16 +1,8 @@
-blib/arch/auto/WWW/WikiSpace/.exists
-blib/lib/auto/WWW/WikiSpace/.exists
-blib/lib/WWW/.exists
-blib/lib/WWW/WikiSpace.pm
-blib/man3/.exists
-blib/man3/WWW::WikiSpace.3pm
 Changes
 examples/example.pl
 lib/WWW/WikiSpace.pm
-Makefile
 Makefile.PL
 MANIFEST
-pm_to_blib
+META.yml			Module meta-data (added by MakeMaker)
 README
 t/WWW-WikiSpace.t
-META.yml                                 Module meta-data (added by MakeMaker)

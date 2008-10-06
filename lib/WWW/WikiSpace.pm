@@ -15,7 +15,7 @@ our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} } );
 
 our @EXPORT = qw(post);
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub new() {
 	my ($class, $home, $user, $pass) = @_;
